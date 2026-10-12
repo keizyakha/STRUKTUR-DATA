@@ -211,7 +211,7 @@ int main() {
 
 ### Output Unguided 2 :
 
-![Screenshot Output Unguided](hhttps://github.com/keizyakha/STRUKTUR-DATA/blob/main/MODUL3/Screenshot_Output_soal2.png)
+![Screenshot Output Unguided](https://github.com/keizyakha/STRUKTUR-DATA/blob/main/MODUL3/Screenshot_Output_soal2.png)
 
 
 penjelasan unguided 2
@@ -287,7 +287,7 @@ int main() {
 
 ### Output Unguided 3 :
 
-![Screenshot Output Unguided](hhttps://github.com/keizyakha/STRUKTUR-DATA/blob/main/MODUL3/Screenshot_Output_soal3.png)
+![Screenshot Output Unguided](https://github.com/keizyakha/STRUKTUR-DATA/blob/main/MODUL3/Screenshot_Output_soal3.png)
 
 penjelasan unguided 3
 
