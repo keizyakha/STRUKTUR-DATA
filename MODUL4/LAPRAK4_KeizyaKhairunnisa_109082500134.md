@@ -22,7 +22,7 @@ Alokasi memori digunakan untuk menyediakan ruang bagi node baru menggunakan oper
 
 ## Guided 1 list.h
 
-source code unguided 1
+source code guided 1
 ```C++
 
 #ifndef LIST_H
@@ -296,9 +296,13 @@ Type ElmList <
 Type List : < First : address >
 
 procedure CreateList( input/output L : List )
+
 function alokasi( x : infotype ) → address
+
 procedure dealokasi(input/output P : address )
+
 procedure printInfo( input L : List )
+
 procedure insertFirst(input/output L : List, input P :address)
 
 Kemudian buatlah implementasi dari procedure-procedure yang digunakan didalam file “Singlylist.cpp”
