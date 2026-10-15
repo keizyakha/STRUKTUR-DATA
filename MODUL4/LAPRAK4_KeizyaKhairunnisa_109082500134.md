@@ -313,22 +313,16 @@ int main() {
     List L;
     address P1, P2, P3, P4, P5 = Nil;
     createList(L);
-
     P1 = alokasi(2);
     insertFirst(L, P1);
-
     P2 = alokasi(0);
     insertFirst(L, P2);
-
     P3 = alokasi(8);
     insertFirst(L, P3);
-
     P4 = alokasi(12);
     insertFirst(L, P4);
-
     P5 = alokasi(9);
     insertFirst(L, P5);
-
     printInfo(L)
     return 0;
 }
@@ -450,10 +444,13 @@ Program ini digunakan untuk membuat singly linked list yang berisi beberapa angk
 
 ### 2. Dari soal Latihan pertama, lakukan penghapusan node 9 menggunakan deleteFirst(), node 2 menggunakan deleteLast(), dan node 8 menggunakan deleteAfter(). Kemudian tampilkan jumlah node yang tersimpan menggunakan nbList() dan lakukan penghapusan seluruh node menggunakan deleteList().
 Output yang diharapkan:
+
 12 0
+
 Jumlah node : 2
 
 - List Berhasil Terhapus -
+  
 Jumlah node : 0
 
 
@@ -649,6 +646,7 @@ int main() {
 ![Screenshot Output Unguided](https://github.com/keizyakha/STRUKTUR-DATA/blob/main/MODUL4/Screenshot_Output_soal2.png)
 
 penjelasan unguided 2
+
 Program ini menggunakan struktur data singly linked list untuk menyimpan dan mengelola data berupa angka. Pertama, program membuat list dan memasukkan lima data, yaitu 2, 0, 8, 12, dan 9 menggunakan fungsi `insertFirst`. Selanjutnya, program menghapus node pertama, node terakhir, dan node setelah node pertama. Hasil akhirnya adalah data 12 dan 0 dengan jumlah 2 node. Setelah itu, fungsi `deleteList` digunakan untuk menghapus seluruh node sehingga list menjadi kosong.
 
 
