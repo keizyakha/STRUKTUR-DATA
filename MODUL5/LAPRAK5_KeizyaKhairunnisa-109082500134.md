@@ -2,7 +2,7 @@
 <p align="center"> Keizya Khairunnisa - 109082500134</p>
 
 ## Dasar Teori
-```text
+
 1. Singly Linked List
 
 Linked list adalah struktur data yang elemen-elemennya disusun berurutan, tapi urutannya ditentukan oleh pointer di tiap elemen, bukan oleh posisi di memori seperti pada array [2]. Pada singly linked list, tiap elemen (node) punya dua bagian, yaitu info yang menyimpan data dan next yang menyimpan alamat elemen berikutnya [1][2]. Jadi satu node cuma tahu siapa yang ada setelahnya, dan penelusuran hanya bisa maju ke satu arah.
@@ -31,7 +31,7 @@ Searching adalah operasi mencari node tertentu dengan mengunjungi setiap node da
 6. Penjumlahan Seluruh Elemen
 
 Menjumlahkan semua info pada list memakai prinsip traversal yang sama dengan printInfo. Bedanya, tiap elemen yang dikunjungi tidak dicetak, tapi nilainya ditambahkan ke sebuah variabel penampung. Hasil akhirnya didapat setelah seluruh elemen dikunjungi, dan sama seperti searching, kompleksitasnya O(n) karena tiap elemen dikunjungi satu kali [2].
-```
+
 
 ## Guided
 
